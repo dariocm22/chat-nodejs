@@ -1,5 +1,6 @@
 # chat-nodejs
 
+### (Se encuentra en la rama master)
 ### Esta página fue creada con NodeJS, usando Socket.io para crear el chat y permitir varios usuarios.
 
 ### Video demostrativo
